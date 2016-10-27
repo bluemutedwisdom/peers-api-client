@@ -1,0 +1,25 @@
+{
+  "name": "fc00-peers-client",
+  "version": "1.0.0",
+  "description": "connects to the hyperboria peers api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fc00/peers-api-client.git"
+  },
+  "keywords": [
+    "hyperboria",
+    "cjdns",
+    "fc00",
+    "peers"
+  ],
+  "author": "ansuz",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fc00/peers-api-client/issues"
+  },
+  "homepage": "https://github.com/fc00/peers-api-client#readme"
+}
